@@ -1,7 +1,7 @@
 name = "StructuralDDPModels"
 uuid = "59ed8550-7b29-11e9-334e-3b97c01aade5"
 authors = ["Pascal Golec <pascalmgolec@gmail.com>"]
-version = "0.1.0"
+version = "v0.1.0"
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
