@@ -1,6 +1,5 @@
 name = "StructuralDDPModels"
-# uuid = "59ed8550-7b29-11e9-334e-3b97c01aade5"
-uuid = "50e8cf3a-7bd8-11e9-3420-114e4e974425"
+uuid = "59ed8550-7b29-11e9-334e-3b97c01aade5"
 authors = ["Pascal Golec <pascalmgolec@gmail.com>"]
 version = "v0.1.0"
 
